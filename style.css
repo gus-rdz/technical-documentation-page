@@ -1,4 +1,5 @@
-span[class~="sr-only"] {
+/* Balance Sheet */
+/* span[class~="sr-only"] {
   border: 0 !important;
   clip: rect(1px, 1px, 1px, 1px) !important;
   clip-path: inset(50%) !important;
@@ -153,4 +154,6 @@ tr.data td {
 
 tr.data td:last-of-type {
   padding-right: 0.5rem;
-}
+} */
+
+/* Picasso Painting */
